@@ -32,4 +32,6 @@ JSP기반 컴퓨터 쇼핑몰 사이트
 ![image](https://user-images.githubusercontent.com/85215507/174966767-f795220d-ae6c-4142-8c94-c35ba753cc77.png)
 ![image](https://user-images.githubusercontent.com/85215507/174966791-bf5f6e06-3c62-45bd-8dc0-01f0b9a5d79c.png)
 ![image](https://user-images.githubusercontent.com/85215507/174966802-465f94d9-48d0-4b84-96fa-75cb59d86f42.png)
+![image](https://user-images.githubusercontent.com/85215507/174966984-ee2e681f-9ed1-43c3-ba2c-b153dd42cbc9.png)
+![image](https://user-images.githubusercontent.com/85215507/174967007-904b1842-2ccc-41bd-bd90-d442b56660e7.png)
 
