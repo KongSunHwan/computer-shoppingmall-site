@@ -1,0 +1,30 @@
+/* ======마이페이지 디자인====== */
+.tab-content {
+    margin-top: 30px;
+}
+
+.m-control .m-title {
+    vertical-align: middle;
+    width: 200px;
+}
+
+.m-control .form-control {
+    display: inline;
+}
+
+.m-control .add {
+    width: 200px;
+}
+
+.m-control .sel {
+    width: 80px;
+}
+
+.m-control .sel2 {
+    width: 120px;
+}
+
+/* 부트스트랩 버튼이 기본적으로 vertical-align을 가지고 있는 것을 수정 */
+.m-control button {
+    vertical-align: top;
+}

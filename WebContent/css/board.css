@@ -1,0 +1,49 @@
+/* ===== 나이키 상품 ===== */
+.prod-list {
+    margin-bottom: 20px;
+}
+
+.prod-list > .prod-color > ul {
+    overflow: hidden;
+}
+
+.prod-list > .prod-color > ul > li {
+    /* 부모영역이 작아지면 자식 영역도 자동으로 작아진다 */
+    width: 52px;
+    float: left;
+}
+
+/* 상품 영역 */
+.prod-content {
+    overflow: hidden;
+    padding: 15px 0;
+}
+
+.prod-content .info {
+    float: left;
+}
+
+.prod-content > .info > span {
+    display: block;
+}
+
+.prod-content .price {
+    float: right;
+}
+
+/* 이미지 영역 */
+.prod-img > img {
+    cursor: pointer;
+    width: 100%;
+}
+
+/* 컬러 hover 영역 */
+.prod-color {
+    opacity: 0;
+    transition : all 1s ease-in-out; /*css속성, 기간, 트랜지션속성, 딜레이*/
+    margin-top: -32px; /*음수 값으로 8칼러 위쪽으로 이동*/
+}
+
+.prod-list:hover > .prod-color {
+    opacity: 1;
+}
