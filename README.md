@@ -11,7 +11,7 @@ JSP기반 컴퓨터 쇼핑몰 사이트
 ![image](https://user-images.githubusercontent.com/85215507/174966155-d3de906b-57f0-4628-85e7-89e66a3153b7.png)
 ![image](https://user-images.githubusercontent.com/85215507/174966186-952bbc8e-4b33-4d42-b368-55a62d2809eb.png)
 ![image](https://user-images.githubusercontent.com/85215507/174966198-64fee5fd-fa15-4981-910e-adba98f46e80.png)
-![image](https://user-images.githubusercontent.com/85215507/174966211-e9676687-ff3b-4c2f-a14f-93c58d44483c.png)
+![image](https://user-images.githubusercontent.com/85215507/177299801-9061dc23-9c0f-436e-802d-c8429d4525a6.png)
 ![image](https://user-images.githubusercontent.com/85215507/174966241-babf557a-e498-4d1b-acbd-18418cb4fd18.png)
 ![image](https://user-images.githubusercontent.com/85215507/174966275-c257b5de-28c5-4157-a7fd-93254e3eb9e3.png)
 ![image](https://user-images.githubusercontent.com/85215507/174966301-d88f7019-b040-4edc-820f-71442ec8c2b4.png)
